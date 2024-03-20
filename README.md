@@ -8,7 +8,7 @@ Certainly! Here's an exciting README.md for your front-end application built wit
 
 ## About
 
-[Your Application Name] is a cutting-edge front-end application developed with React.js and Solidity, bringing together the power of decentralized finance (DeFi) and blockchain technology. The application seamlessly integrates MetaMask wallet connectivity, allowing users to securely interact with Ethereum-based smart contracts and decentralized applications (DApps) directly from their web browser.
+BrokFree is a cutting-edge front-end application developed with React.js and Solidity, bringing together the power of decentralized finance (DeFi) and blockchain technology. The application seamlessly integrates MetaMask wallet connectivity, allowing users to securely interact with Ethereum-based smart contracts and decentralized applications (DApps) directly from their web browser.
 
 ## Features
 
@@ -20,15 +20,15 @@ Certainly! Here's an exciting README.md for your front-end application built wit
 
 ## Technologies Used
 
-- **Front-End:** React.js, HTML5, CSS3, JavaScript
+- **Front-End:** React.js, HTML5, TailwindCSS, JavaScript
 - **Blockchain Integration:** Solidity, Ethereum, MetaMask
 - **Development Tools:** Git, GitHub, VS Code, npm/yarn
 
 ## Getting Started
 
-To get started with [Your Application Name], follow these simple steps:
+To get started with BrokFree, follow these simple steps:
 
-1. **Clone the Repository**: `git clone https://github.com/your-username/your-repository.git`
+1. **Clone the Repository**: `git clone https://github.com/niy42/web3.0.git`
 2. **Install Dependencies**: `npm install` or `yarn install`
 3. **Start the Development Server**: `npm start` or `yarn start`
 4. **Connect MetaMask**: Ensure you have MetaMask installed and configured in your web browser. Connect your MetaMask wallet to access the full features of the application.
