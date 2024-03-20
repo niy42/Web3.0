@@ -1,10 +1,8 @@
-Certainly! Here's an exciting README.md for your front-end application built with React and Solidity, integrating a MetaMask wallet connect function:
-
 ---
 
-# Welcome to Niy42 👋
+# Hey there check out my front-end application built with React and Solidity, with a MetaMask wallet connect integration: 👋
 
-![Project Screenshot](https://github.com/niy42/Web3.0/blob/main/client/images/Brokfree.gif)
+![Project Screenshot](https://github.com/niy42/Web3.0/blob/main/client/images/send_REC.gif)
 
 ## About
 
