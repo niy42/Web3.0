@@ -133,16 +133,21 @@ const TransactionsProvider = ({children}) => {
 
     const sendTransaction = async () => {
         try {
+            if(!ethereum){
+                alert("Please install MetaMask!");
+                return;
+            }
             const tx_Contract = createEthereumContract();
             const { addressTo, amount, keyword, message } = formData;
             const parsedAmount = ethers.utils.parseEther(amount);
-            const transaction = await request.ethereum({ 
+            const { request } = ethereum;
+            const transaction = await request({ 
                 method: "eth_sendTransaction",
                 params:[{
                     from: currentAccount,
                     to: addressTo,
                     gas: '0x5208',
-                    value: parsedAmount,
+                    value: parsedAmount.toHexString(),
                 }]
             });
 
