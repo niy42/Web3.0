@@ -1,4 +1,4 @@
-Certainly! Here's an exciting README.md for your front-end application built with React and Solidity, integrating a MetaMask wallet connect function:
+Front-end application built with React and Solidity, with a MetaMask wallet connect integration:
 
 ---
 
