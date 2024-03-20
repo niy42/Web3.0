@@ -44,9 +44,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 Have any questions or feedback? Feel free to reach out:
 
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
+- Email: obanlaniyi42@gmail.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/adeniyi-obanla-3a137914b/)
+- Twitter: [@YourTwitterHandle](https://twitter.com/niy42)
 
 Let's revolutionize decentralized finance together! 🚀
 
