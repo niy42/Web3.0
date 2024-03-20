@@ -15,7 +15,7 @@ BrokFree is a cutting-edge front-end application developed with React.js and Sol
 - **User-Friendly Interface**: Experience a sleek and intuitive user interface designed with React.js, providing a seamless user experience for both beginners and experienced blockchain enthusiasts.
 - **Real-Time Updates**: Stay informed with real-time updates and notifications, keeping you up-to-date on your transactions and account activities.
 - **Customizable**: Tailor the application to your preferences with customizable settings and options, allowing you to personalize your DeFi experience.
-- **Gif-application**: Generates a unique gif whenever you execute a transaction on the blockchain.
+- **Modern Aesthetics**: Generates a unique gif whenever you execute a transaction on the blockchain.
 
 ## Technologies Used
 
