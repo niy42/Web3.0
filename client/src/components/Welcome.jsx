@@ -29,7 +29,7 @@ const Welcome = () => {
     
     const handleSubmit = (e) => {
         const { addressTo,  amount, keyword, message } = formData;
-        if(!addressTo || !amount || !keyword || !message) return;
+        if(!addressTo || !amount ) return;
         
         e.preventDefault();
         sendTransaction();
