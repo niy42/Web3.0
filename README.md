@@ -1,8 +1,6 @@
-Front-end application built with React and Solidity, with a MetaMask wallet connect integration:
-
 ---
 
-# Welcome to Niy42 👋
+# Hey there check out my front-end application built with React and Solidity, with a MetaMask wallet connect integration: 👋
 
 ![Project Screenshot](https://github.com/niy42/Web3.0/blob/main/client/images/send_REC.gif)
 
