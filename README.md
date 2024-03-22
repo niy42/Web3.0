@@ -31,7 +31,7 @@ To get started with BrokFree, follow these simple steps:
 2. **Install Dependencies**: `npm install` or `yarn install`
 3. **Start the Development Server**: `npm start` or `yarn start`
 4. **Connect MetaMask**: Ensure you have MetaMask installed and configured in your web browser. Connect your MetaMask wallet to access the full features of the application.
-5. **Explore and Enjoy**: Dive into the world of decentralized finance (DeFi) and blockchain technology with [Your Application Name]!
+5. **Explore and Enjoy**: Dive into the world of decentralized finance (DeFi) and blockchain technology with Brokfree!
 
 ## Contributing
 
