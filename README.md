@@ -1,4 +1,4 @@
----
+Aa---
 
 # Hello, check out my front-end application created with React and Solidity, featuring a MetaMask wallet connect integration. 👋
 
@@ -35,7 +35,7 @@ To get started with BrokFree, follow these simple steps:
 
 ## Contributing
 
-Contributions are welcome! Whether you're a seasoned developer or just getting started, there are plenty of opportunities to contribute to [Your Application Name]. Feel free to open issues, submit pull requests, or suggest new features to help improve the project.
+Contributions are welcome! Whether you're a seasoned developer or just getting started, there are plenty of opportunities to contribute to Brokfree. Feel free to open issues, submit pull requests, or suggest new features to help improve the project.
 
 ## License
 
