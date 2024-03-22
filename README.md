@@ -1,4 +1,4 @@
-Aa---
+---
 
 # Hello, check out my front-end application created with React and Solidity, featuring a MetaMask wallet connect integration. 👋
 
